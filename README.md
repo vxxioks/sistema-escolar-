@@ -11,5 +11,5 @@ El sistema revisa los datos del alumno y entrega uno de estos 4 estados:
 
 ## Conceptos de POO Utilizados
 * **Clases y Objetos:** Se crearon dos clases principales: estudiante y sistemaEscolar.
-* **Abstracción:** Solo se tomaron los datos realmente importantes para el problema (nombre, curso, notas, faltas, etc.), dejando de lado información innecesaria.
+* **Abstracción:** Solo se tomaron los datos realmente importantes para el problema, dejando de lado información innecesaria.
 * **Encapsulamiento:** Se agruparon las variables y los comportamientos en una sola unidad.
